@@ -277,7 +277,7 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/ShayanMitra
+git clone https://github.com/ShayanMitra/ORION-main
 cd ORION
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
